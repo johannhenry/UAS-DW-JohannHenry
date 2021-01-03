@@ -1,0 +1,49 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: #fff;
+	width:500px;
+	padding: 25px;
+	margin: 25px auto 0;
+	box-shadow:  0px 0px 20px rgba(0,0,0,0.5)
+}
+.wrapper{
+	background-color: #00FFFF;
+}
+.wrapper h2{
+	background-color: #00FFFF;
+	color: black;
+	font-size: 24px;
+	padding: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	border:1px dotted #333;
+
+}
+
+h4{
+	padding-bottom: 8px;
+}
+.input-group{
+	margin-bottom: 8px;
+	width: 100%;
+	position: relative;
+	flex-direction: row;
+	padding: 5px 0;
+}
+.input-box{
+	width: 100%;
+	margin-right: 12px;
+	position: relative;
+}
+.sbmit{
+	padding:5px 25px;
+	background-color: green;
+}
+.sbmit:hover{
+color: white;
+text-transform: uppercase;
+}

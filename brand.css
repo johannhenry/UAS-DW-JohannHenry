@@ -1,0 +1,13 @@
+img{
+	width: 300px;
+	height: 200px;
+	display: block;
+	margin: auto;
+}
+.row {
+	margin-top: 150px;
+}
+.row h3 {
+	text-align: center;
+	margin-top: 50px;
+}

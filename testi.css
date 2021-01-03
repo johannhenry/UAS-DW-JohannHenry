@@ -1,0 +1,19 @@
+.testimonial{
+	margin-top: 150px;
+}
+.testimonial .col-4{
+	text-align: center;
+	padding: 40px 20px;
+	border:1px solid black;
+	border-radius: 5%;
+	cursor: pointer;
+	transition: transform 0.5;
+}
+.testimonial .col-4 img{
+	width: 80px;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+.testimonial .col-4:hover{
+	transform: translateY(-10px);
+}
